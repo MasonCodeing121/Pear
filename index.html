@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Avocado | Home</title>
+<link rel="icon" href="/assets/img/logo.ico" type="image/png">
+<link rel="stylesheet" href="assets/css/navbar.css">
+<style>
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+color: white;
+text-align: center;
+margin: 10px 0;
+}
+
+.start-button {
+background-color: rgb(46, 124, 30);
+border: none;
+color: white;
+text-decoration: none;
+display: inline-flex; /* Use flex on button to align items */
+align-items: center; /* Center items */
+border-radius: 8px; /* Increase border radius for rounded corners */
+cursor: pointer;
+margin-bottom: 20px; /* Space below the button */
+transition: background-color 0.3s;
+font-size: 1.5em;
+padding: 10px 20px;
+border: none;
+border-radius: 7px;
+transition: 0.4s all;
+}
+
+.start-button:hover {
+filter: brightness(80%);
+cursor: pointer;
+
+}
+</style>
+</head>
+<body>
+<div id="content">
+<nav>
+<div class="logo">
+<img src="assets/img/logo.png" alt="Logo" draggable="false" />
+<h1>Avocado</h1>
+</div>
+<div class="navitems">
+<div class="navitem"><a selected href="/">Home</a></div>
+<div class="navitem"><a href="/game.html">Games</a></div>
+<div class="navitem"><a href="/apps.html">Apps</a></div>
+<div class="navitem"><a href="/proxys.html">Proxys</a></div>
+<div class="navitem"><a href="/extra.html">Extra</a></div>
+<div class="navitem"><a href="/settings.html">Settings</a></div>
+</div>
+</nav>
+
+<br>
+<br>
+<style>
+:root {
+--link-hover-color: rgb(80, 130, 110); /* Blue */
+--image-outline-color: rgb(55, 105, 90); /* Blue */
+--header-active-background-color: rgba(60, 120, 105, 0.55); /* Blue */
+}
+
+.typewrite {
+color: var(--link-hover-color);
+filter: drop-shadow(0 0 2px var(--image-outline-color)) drop-shadow(0 0 20px var(--image-outline-color));
+font-size: 1em;
+font-family: Arial, sans-serif;
+}
+
+.typewrite > .wrap {
+border-right: 0.06em solid var(--header-active-background-color);
+}
+</style>
+<body>
+<h1>
+<span class="typewrite" data-period="2000" data-type='["Welcome to Pear.","Made by Someone.","Nothing else is here.","ummmmmmmmm."," Do Not Use limited Devcode: monkey7"]'>
+<span class="wrap"></span>
+</span>
+</h1>
+
+<script>
+class TxtType {
+constructor(el, toRotate, period) {
+this.toRotate = toRotate;
+this.el = el;
+this.loopNum = 0;
+this.period = parseInt(period, 10) || 2000;
+this.txt = '';
+this.tick();
+this.isDeleting = false;
+}
+
+tick() {
+  const i = this.loopNum % this.toRotate.length;
+  const fullTxt = this.toRotate[i];
+
+  if (this.isDeleting) {
+    this.txt = fullTxt.substring(0, this.txt.length - 1);
+  } else {
+    this.txt = fullTxt.substring(0, this.txt.length + 1);
+  }
+
+  this.el.innerHTML = `<span class="wrap">${this.txt}</span>`;
+
+  let delta = 200 - Math.random() * 100;
+
+  if (this.isDeleting) {
+    delta /= 2;
+  }
+
+  if (!this.isDeleting && this.txt === fullTxt) {
+    delta = this.period;
+    this.isDeleting = true;
+  } else if (this.isDeleting && this.txt === '') {
+    this.isDeleting = false;
+    this.loopNum++;
+    delta = 500;
+  }
+
+  setTimeout(() => this.tick(), delta);
+}
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+  const elements = document.getElementsByClassName('typewrite');
+  for (let i = 0; i < elements.length; i++) {
+    const toRotate = elements[i].getAttribute('data-type');
+    const period = elements[i].getAttribute('data-period');
+    if (toRotate) {
+      new TxtType(elements[i], JSON.parse(toRotate), period);
+    }
+  }
+});
+
+function launchab() {
+  const tab = window.open('about:blank', '_blank')
+  const iframe = tab.document.createElement('iframe')
+  const stl = iframe.style
+  stl.border = stl.outline = 'none'
+  stl.width = '100vw'
+  stl.height = '100vh'
+  stl.position = 'fixed'
+  stl.left = stl.right = stl.top = stl.bottom = '0'
+  iframe.src = self.location
+  tab.document.body.appendChild(iframe)
+  window.parent.window.location.replace(localStorage.getItem('panicurl') || 'https://google.com/')
+}
+
+</script>
+<br>
+<div style="text-align: center;">
+<button class="start-button" onclick="launchab()"><b>About:Blank Cloak</b></button>
+<button class="start-button" onclick="window.location.href = '/game.html';"><b>Start Playing</b></button>
+
+
+
+<h1>wow</h1>
+
+
+</div>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"14f42bef2d8c4ee2b78b522513310b94","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</div>
+</body>
+</html>
+
