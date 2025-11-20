@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
        gameCard.innerHTML = `
   <img src="${game.imageUrl}" 
        alt="${game.name}" 
-       onerror="this.onerror=null; this.src='assets/img/avo.png';">
+       onerror="this.onerror=null; this.src='https://avocado.evenpixels.com/assets/img/avo.png';">
   <p>${game.name}</p>
   ${game.new ? '<span class="badge-new">New</span>' : ''}
   ${game.fixed ? '<span class="badge-fixed">Fixed</span>' : ''}
