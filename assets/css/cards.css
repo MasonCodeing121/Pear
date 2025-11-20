@@ -1,0 +1,99 @@
+.button-container {
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px auto;
+    width: 95%;
+    max-width: 1800px;
+    gap: 20px;
+}
+
+.game-card, .app-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 170px;
+    height: 200px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 3px solid rgba(230, 230, 230, 0.1);
+    border-radius: 10px;
+    transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+    padding: 10px;
+}
+
+.game-card:hover, .app-card:hover {
+    transform: scale(1.08) translate(0, -9%);
+    background-color: rgba(200, 200, 200, 0.4);
+    border: 3px solid rgba(230, 230, 230, 1);
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4);
+}
+
+.game-card img, .app-card img {
+    width: 165px;
+    height: 165px;
+    border-radius: 15%;
+    transition: transform 0.3s ease;
+}
+
+.game-card p, .app-card p {
+    margin: 7px 0 0;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    transition: font-size 0.4s ease, color 0.5s ease;
+}
+
+/* search bar (used in games page) */
+.search-bar {
+    text-align: center;
+    margin: 20px;
+}
+
+.search-bar input {
+    font-size: 18px;
+    width: 420px;
+    padding: 10px 15px 10px 10px;
+    border: 2px solid rgba(51, 51, 51, 0.575);
+    border-radius: 15px;
+    outline: none;
+    color: white;
+    background-color: rgba(22, 22, 22, 0.637);
+    text-align: center;
+    transition: padding-left 0.3s ease, text-align 0.3s ease;
+}
+
+.no-game-message,.no-app-message {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    margin-top: 30px;
+}
+
+.badge-new {
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    background-color: rgba(225, 50, 50, 1);
+    color: white;
+    font-size: 16px;
+    padding: 4px 7px;
+    border-radius: 10px 0px 0px 10px;
+    z-index: 1;
+}
+
+.badge-fixed {
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    background-color: rgba(220, 170, 0, 1);
+    color: white;
+    font-size: 16px;
+    padding: 4px 7px;
+    border-radius: 10px 0px 0px 10px;
+    z-index: 1;
+}

@@ -1,0 +1,96 @@
+@import url(master.css);
+:root {
+  --text-color: white
+  --background: rgb(26, 32, 35);
+  --navbar: #0e1213b3; 
+  --accent: rgb(41, 130, 23);
+}
+
+nav {
+  height: 55px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  margin: 0;
+  margin-bottom: 10px;
+  background-color: rgba(22, 28, 30, 0.7); /* --navbar */
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+nav .navitem {
+  display: flex;
+  align-items: center;
+}
+
+nav .navitems {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  opacity: 1;
+  justify-self: flex-end;
+}
+
+nav .logo {
+  display: flex;
+  align-items: center;
+}
+
+nav .logo h1 {
+  margin-left: 15px;
+  font-size: 30px;
+}
+
+nav a {
+  color: white; /* --text-color */
+  text-decoration: none; 
+  font-size: 18px; 
+  margin: 10px; 
+  transition: all 0.6s; 
+  padding: 10px 15px;
+  border-radius: 15px; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+}
+
+nav a:visited {
+  color: white; /* --text-color */
+}
+
+nav img {
+  height: 40px;
+}
+
+nav .navitem a {
+  position: relative;
+}
+
+nav a[selected],
+nav .navitem a:hover {
+  background-color: rgb(19, 180, 10); /* --accent */
+  text-decoration: none;
+  color: #1a2023; /* --background */
+  filter: brightness(100%);
+}
+
+nav .navitem:not(:last-child)::after {
+  content: "/";
+  margin: 0 5px;
+  color: gray;
+}
+
+.navitem a span {
+  width: 0; /* Initial position outside the parent */
+  opacity: 0; /* Initial opacity */
+  transition: 0.3s all; /* Transition properties */
+}
+
+.navitem a:hover span {
+  width: 100%; /* Slide in the span to the original position */
+  opacity: 1; /* Fade in the span */
+}
