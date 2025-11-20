@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
         appCard.innerHTML = `
   <img src="${app.imageUrl}" 
        alt="${app.name}" 
-       onerror="this.onerror=null; this.src='assets/img/avo.png';">
+       onerror="this.onerror=null; this.src='https://avocado.evenpixels.com/assets/img/avo.png';">
   <p>${app.name}</p>
   ${app.new ? '<span class="badge-new">New</span>' : ''}
   ${app.fixed ? '<span class="badge-fixed">Fixed</span>' : ''}
