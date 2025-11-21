@@ -75,7 +75,7 @@ const apps = {
       },
       {
         name: "TikTok",
-        imageUrl: "https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png",
+        imageUrl: "https://cdn.vectorstock.com/i/1000v/75/87/tiktok-logo-black-background-vector-35997587.jpg",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://www.tiktok.com/')",
         fixed: true
       },
