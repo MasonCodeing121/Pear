@@ -1,1 +1,142 @@
-    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pear | Extra</title>
+    <link rel="icon" href="./assets/img/image.png" type="image/png">
+    <link rel="stylesheet" href="./assets/css/navbar.css">
+    <style>
+         body {
+             margin: 0;
+             font-family: Arial, Helvetica, sans-serif;
+         }
+ 
+         h1, h2 {
+             color: white;
+             text-align: center;
+             margin: 10px 0;
+         }
+         p {
+             color: white;
+             text-align: center;
+             margin: 10px 0;
+             font-size: 20px;
+         }
+ 
+         .button-container {
+             padding: 15px;
+             display: flex;
+             flex-wrap: wrap;
+             justify-content: center;
+             margin: 20px auto;
+             width: 95%;
+             max-width: 1800px;
+             gap: 20px; /* Space between cards */
+         }
+ 
+         .game-card {
+             display: flex;
+             flex-direction: column;
+             align-items: center;
+             justify-content: center;
+             text-align: center;
+             width: 170px;
+             height: 200px; /* Fixed height to avoid layout shifting */
+             background-color: rgba(255, 255, 255, 0.2);
+             border: 3px solid rgba(230, 230, 230, 0.1);          
+             border-radius: 10px;
+             transition: transform 0.3s ease, background-color 0.3s ease, box-shadow 0.3s ease;
+             padding: 10px;
+         }
+ 
+         .game-card:hover {
+             transform: scale(1.08) translate(0, -9%); /* Combine scale and translate */
+             background-color: rgba(200, 200, 200, 0.4);
+             border: 3px solid rgba(230, 230, 230, 1);          
+             transition: transform 0.2s ease, background-color 0.2s ease;
+             box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4); /* Add shadow on hover */
+         }
+ 
+         .game-card img {
+             width: 165px;
+             height: 165px;
+             border-radius: 15%;
+             transition: transform 0.3s ease;
+         }
+ 
+         .game-card p {
+             margin: 7px 0 0;
+             color: white;
+             font-size: 14px;
+             font-weight: bold;
+             transition: font-size 0.4s ease, color 0.5s ease;
+         }
+ 
+         .iframe-container {
+             display: flex;
+             justify-content: center;
+             margin: 20px auto;
+         }
+ 
+         iframe {
+             width: 80%;
+             height: 500px;
+             border: 3px solid rgba(255, 255, 255, 0.3);
+             border-radius: 10px;
+             background-color: rgba(0, 0, 0, 0.6);
+         }
+     </style>
+     <script>
+         function openUrl(url) {
+             window.location.href = url; 
+         }
+     </script>
+ </head>
+ <body>
+    <div id="content">
+        <nav>
+            <div class="logo">
+                 <img src="./assets/img/image.png" alt="Logo" draggable="false" />
+                 <h1>Pear</h1>
+             </div>
+             <div class="navitems">
+                 <div class="navitem"><a href="./index.html">Home</a></div>
+                 <div class="navitem"><a href="./game.html">Games</a></div>
+                 <div class="navitem"><a href="./apps.html">Apps</a></div>
+                 <div class="navitem"><a href="./proxys.html">Proxys</a></div>
+                 <div class="navitem"><a selected href="./extra.html">Extra</a></div>
+                 <div class="navitem"><a href="./settings.html">Settings</a></div>
+             </div>
+         </nav>
+         <br>
+         <h1>Extra</h1>
+         
+         <h2>Partners:</h2>
+         
+         <div class="button-container">
+             <div class="game-card" onclick="openUrl('https://bluespace118.vercel.app')">
+                 <img src="/assets/img/bluespace.jpeg" alt="Dont Know what their image is...">
+                 <p>BlueSpace(Down)</p>
+             </div>
+             <div class="game-card" onclick="openUrl('https://bluespace118.vercel.app')">
+                 <img src="" alt="IDK what to put">
+                 <p>BlueSpace</p>
+             </div>
+         </div>
+         <br>
+         <h2>Version</h2>        
+         <p>v0.1.0 - Alpha</p>
+         <br>
+         <h2>Developers</h2>
+         <p>8bitCAP (Creator)</p>
+         <p>BlueCreate (Unpaid employee)</p>
+         <br>
+         <h2>Credits:</h2>
+         <p>3kh0 - Some Games</p>
+         <br><br>
+     </div>
+ <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"14f42bef2d8c4ee2b78b522513310b94","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+ </body>
+ <script src="https://cap-oneko-cat.vercel.app/oneko.js"></script>
+ </html>
