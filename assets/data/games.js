@@ -13,7 +13,7 @@ const games = {
   "Every Other Game": [
     {
       name: "Rocket Bot Royale",
-      imageUrl: "assets/img/Screenshot%202025-01-12%2016.11.11.png",
+      imageUrl: "https://play-lh.googleusercontent.com/L2hAcGPOhjo1KqAzAR6LMpds4E5cGA5Z_Fg-GpP0YzfFnktobYUL7rlMn0Oy77rCgbBa",
       url: "openGame('https://rocketbotroyale.winterpixel.io/')",
     },
     {
@@ -28,7 +28,7 @@ const games = {
     },
     {
       name: "Retro Bowl",
-      imageUrl: "assets/img/Screenshot%202025-01-12%2022.44.54.png",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/ee9ca3764ef4289a48a1ebf457ef605441ed1f35a0f2eb12707a70d609e53686/retro-bowl.png",
       url: "openGame('http://retro-bowl-plus.vercel.app')",
     },
     {
@@ -38,27 +38,27 @@ const games = {
     },
     {
       name: "Fortnite",
-      imageUrl: "assets/img/feef.jpeg",
+      imageUrl: "https://cdn2.steamgriddb.com/icon_thumb/12cf4a73ca7615440ff9fbef4017c111.png",
       url: "openGame('https://www.easyfun.gg/cloud-games/fortnite-battle-royale-cloud-online.html')",
     },
     {
       name: "Granny",
-      imageUrl: "assets/img/jjjjjjjkj.jpeg",
+      imageUrl: "https://play-lh.googleusercontent.com/yT_LBq_tyKeIDohKDsqN_Qt18jGIPUYIxY2C-1-E2YA9Qd60uZW08pua17qBmIiDPA",
       url: "openGame('https://sz-games.github.io/Games8/GRANNY/')",
     },
     {
       name: "Stumble Guys",
-      imageUrl: "assets/img/dfegrg.jpeg",
+      imageUrl: "https://yt3.googleusercontent.com/ytc/AIdro_lXnROM1VXMCyeKrMLcj0d3DrX_xONYIjZ8dqza6EKYSg=s900-c-k-c0x00ffffff-no-rj",
       url: "openGame('https://www.easyfun.gg/cloud-games/stumble-guys-cloud-online.html')",
     },
     {
       name: "Madden NFL 24",
-      imageUrl: "assets/img/grg.jpeg",
+      imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202404/1220/e6044031d9a93f63b2ed95b1aae1c7d3239742390982c9d3.png",
       url: "openGame('https://www.easyfun.gg/cloud-games/madden-nfl-24-mobile-football.html')",
     },
     {
       name: "EA Sports FC",
-      imageUrl: "assets/img/grgrg.jpeg",
+      imageUrl: "https://play-lh.googleusercontent.com/yQHb1bk88ENXLZ2_ZO-st7cuG78pva5yRAge2CjhBPoBoEng1ouxyx30vK4s4Z7553Kohd9pPVm1GC2Phs8slA",
       url: "openGame('https://www.easyfun.gg/cloud-games/ea-sports-fc-uefa-euro-2024.html')",
     },
     {
@@ -68,12 +68,12 @@ const games = {
     },
     {
       name: "Roblox",
-      imageUrl: "assets/img/fd%20fbbb.jpeg",
+      imageUrl: "https://yt3.googleusercontent.com/xTxr7gmbkxiPKjrmN5ut0Kn8UcHpkkgyTv-_EeDPphcQusrWyKfSZw13EKCYXQyYdeoC3ON1zQ=s900-c-k-c0x00ffffff-no-rj",
       url: "openGame('https://www.easyfun.gg/cloud-games/roblox.html')",
     },
     {
       name: "Space-waves",
-      imageUrl: "assets/img/Screenshot%202025-01-13%2010.31.57.png",
+      imageUrl: "https://space-waves.co/cache/data/image/game/space-waves1-m150x150.webp",
       url: "openGame('https://igroutka.ru/loader/game/51356/')",
     },
     {
@@ -88,22 +88,22 @@ const games = {
     },
     {
       name: "Monkey Mart",
-      imageUrl: "assets/img/Screenshot%202025-01-13%2014.11.02.png",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnFLj-kzBHlnUSjUopreqhemo1SP_MSLJYRg&s",
       url: "openGame('https://nugget.evenpixels.com/MonkeyMart/')",
     },
     {
       name: "Escape Road",
-      imageUrl: "assets/img/Screenshot%202025-01-13%2014.18.30.png",
+      imageUrl: "https://escaperoadgame.com/cache/data/image/game/512-x-512-m150x150.webp",
       url: "openGame('https://smashy-road.io/smashy-road-wanted-2.embed')",
     },
     {
       name: "Escape Road 2",
-      imageUrl: "assets/img/Screenshot%202025-01-13%2014.18.30.png",
+      imageUrl: "https://escaperoad2.io/data/image/escape-road-2-game.png",
       url: "openGame('https://1games.io/embed/escape-road-city-2')",
     },
     {
       name: "Smash Karts",
-      imageUrl: "assets/img/download.webp",
+      imageUrl: "https://imgs.crazygames.com/smash-karts_1x1/20251104140921/smash-karts_1x1-cover?format=auto&quality=100&metadata=none&width=1200",
       url: "openGame('https://smashkarts.io/')",
     },
     {
@@ -113,32 +113,32 @@ const games = {
     },
     {
       name: "Snow Rider 3D",
-      imageUrl: "assets/img/download%20(2).jpeg",
+      imageUrl: "https://geometrydashfullversion.io/data/image/game/snow-rider-3d/snow-rider-3d.jpg",
       url: "openGame('https://html5.gamedistribution.com/3b79a8537ebc414fb4f9672a9b8c68c8/?gd_sdk_referrer_url=https://www.virlan.co/unblocked-games/')",
     },
     {
       name: "EvoWorld.io",
-      imageUrl: "assets/img/Screenshot%202025-01-14%2013.55.07.png",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/4617d96c-ae80-40a7-91d8-b5670a994084/flyordie-io.png",
       url: "openGame('https://evoworld.io')",
     },
     {
       name: "Yohoho.io",
-      imageUrl: "assets/img/Screenshot%202025-01-13%2010.34.15.png",
+      imageUrl: "https://play-lh.googleusercontent.com/4yqjsxq9ntZ2dftqxChXmsm-kZ293L6tBc8bghIFxvMn6T8v8jdGqld1CT_vuocU6g",
       url: "openGame('https://Yohoho.io/')",
     },
     {
       name: "Minecraft",
-      imageUrl: "assets/img/Screenshot%202025-01-15%2022.49.37.png",
+      imageUrl: "https://i.scdn.co/image/ab67616100005174a85dfd1e440e564624170b06",
       url: "openGame('https://mcraft.fun/')",
     },
     {
       name: "Tiny Fishing",
-      imageUrl: "assets/img/download.jpeg",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/c8cb366d52fc2a67fb313c344efdbc9e/tiny-fishing.png",
       url: "openGame('https://nugget.evenpixels.com/tiny-fishing/')",
     },
     {
       name: "Doge Miner 2",
-      imageUrl: "assets/img/hggjhk.jpeg",
+      imageUrl: "https://scylla.wgplayer.com/f_webp/https://static.gogy.com/assets/games/imgs/thumbs/Doge-Miner-2.jpg",
       url: "openGame('https://dogeminer2.com/')",
     },
     {
@@ -148,17 +148,17 @@ const games = {
     },
     {
       name: "Geometry Dash Lite",
-      imageUrl: "assets/img/sdgegsrg.jpeg",
+      imageUrl: "https://play-lh.googleusercontent.com/p7kWbWBFxQIrzolEqiV5uSvctLeyssZvBV7UBOX29wzZI52IdcSs4qCB_zsQJL1mt9A",
       url: "openGame('https://geometrygame.org/game/geometry-dash-lite/')",
     },
     {
       name: "OvO",
-      imageUrl: "assets/img/df.jpeg",
+      imageUrl: "https://play-lh.googleusercontent.com/v7KwGdPjJGjJjRXn46sck4DwDBdKSeRzGN44CjiXUtKV0jjOi51Bt4wcXud0m-SkXg",
       url: "openGame('https://nugget.evenpixels.com/ovo/')",
     },
     {
       name: "Raft Wars 2",
-      imageUrl: "assets/img/wwwwwwww.jpg",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/d2a3bbd1bb8aea542835f4f8a353d388/raft-wars.png",
       url: "openGame('https://raft-wars.gitlab.io/file/')",
     },
     {
@@ -168,17 +168,17 @@ const games = {
     },
     {
       name: "Moto X3M",
-      imageUrl: "assets/img/fbdvj.jpeg",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/2c6d5a46cdbceada277c870ce1c389ee/moto-x3m.jpg",
       url: "openGame('https://html5.gamedistribution.com/5b0abd4c0faa4f5eb190a9a16d5a1b4c/?gd_sdk_referrer_url=https://www.virlan.co/unblocked-games/moto-x3m-play-free-online-motorcycle-racing-game/')",
     },
     {
       name: "Moto X3M 2",
-      imageUrl: "assets/img/trnynm6unb.jpeg",
+      imageUrl: "https://mathgames66.github.io/mgthumbnails/Screenshot%202022-11-03%208.24.54%20AM.png",
       url: "openGame('https://html5.gamedistribution.com/f804d079d19f44d3b951ead4588e974a/?gd_sdk_referrer_url=https://gamedistribution.com/games/moto-x3m-pool-party/')",
     },
     {
       name: "Moto X3M 3",
-      imageUrl: "assets/img/53getv.jpeg",
+      imageUrl: "\https://www.x3mmoto.com/images/logo2.png",
       url: "openGame('https://storage.y8.com/y8-studio/html5/annu/moto3/')",
     },
     {
@@ -188,12 +188,12 @@ const games = {
     },
     {
       name: "Polytrack",
-      imageUrl: "assets/img/PolyTrack.webp",
+      imageUrl: "https://www.kizgame.com/thumbs/polytrack_small.webp",
       url: "openGame('https://www.kodub.com/apps/polytrack')",
     },
     {
       name: "Subway Surfers",
-      imageUrl: "assets/img/fnsajnv.jpeg",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/4da7a102035ecd7c1d56bd9036ccffbc/subway-surfers.png",
       url: "openGame('//files.ufreegame.net/1024/Subway-Surfers-Zurich/')",
     },
     {
@@ -203,12 +203,12 @@ const games = {
     },
     {
       name: "Plinko",
-      imageUrl: "assets/img/Screenshot%202025-01-28%2010.58.06.png",
+      imageUrl: "https://mediumrare.imgix.net/5cbb2498c956527e6584c6af216489b85bbb7a909c7d3c4e131a3be9bd1cc6bf?w=150&h=200&fit=min&auto=format",
       url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://plinko-web-game.netlify.app/')",
     },
     {
       name: "Hole IO",
-      imageUrl: "assets/img/asidjghlijfang%20).jpeg",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/en/c/ca/Hole.io_logo.jpg",
       url: "openGame('https://hole-io.com/')",
     },
     {
@@ -218,47 +218,47 @@ const games = {
     },
     {
       name: "Territorial",
-      imageUrl: "assets/img/hhyh.jpeg",
+      imageUrl: "https://play-lh.googleusercontent.com/51Sh28L_ZYYkIHJHSmT4s_w3E8vXdTJlWUtfAxx9W91m090qx0QoN7Zr810V4bNdOoY",
       url: "openGame('https://territorial.io/')",
     },
     {
       name: "Drive Mad",
-      imageUrl: "assets/img/ev.jpeg",
+      imageUrl: "https://drivemadgame.cc/uploads/games/main/img_68c3e328e0294.jpg",
       url: "openGame('https://play.fancade.com/5F084A0BCE06B710/')",
     },
     {
       name: "Duck Life 4",
-      imageUrl: "assets/img/rgbd.jpeg",
+      imageUrl: "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/90/d6/9690d6f4-7ed4-0ec0-d1bf-413dfedb075e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       url: "openGame('https://duck-life4.com/1.embed')",
     },
     {
       name: "Tomb of the Mask",
-      imageUrl: "assets/img/sdcdc.png",
+      imageUrl: "https://play-lh.googleusercontent.com/ATGr-U4JBK2VjFzKGK9eMMkrDxJaazadOUoz_7Yl0U5NrWSFcFUzEtNurWXYzVWc8uOO=w240-h480-rw",
       url: "openGame('https://cpsgames.org/splash/tomb-of-the-mask')",
     },
     {
       name: "Slope",
-      imageUrl: "assets/img/agragr.png",
+      imageUrl: "https://azgames.io/upload/imgs/slope.png",
       url: "openGame('https://kdata1.com/2020/05/slope/')",
     },
     {
       name: "WBWWB",
-      imageUrl: "assets/img/fggggg.jpg",
+      imageUrl: "https://wbwwb.com/wp-content/uploads/2024/01/cropped-wbwwb.webp",
       url: "openGame('https://cap-game-source-0.vercel.app/games/files/we-become-what-we-behold/index.html')",
     },
     {
       name: "Stickman Hook",
-      imageUrl: "assets/img/r%20tcbv.jpeg",
+      imageUrl: "https://m.media-amazon.com/images/I/610klDzmDsL.png",
       url: "openGame('https://stickmanhookgame.org/stickman-hook.embed')",
     },
     {
       name: "Temple of Boom",
-      imageUrl: "assets/img/tddntn.jpg",
+      imageUrl: "https://play-lh.googleusercontent.com/vPPnIxssWU-51yDOb1Ia9Yn-tpLo_8p5d92x-7CTcbP4C1q_ByQlBOlCESY589c8pA",
       url: "openGame('https://classroom6x.gitlab.io/temple-of-boom/')",
     },
     {
       name: "Rooftop Snipers",
-      imageUrl: "assets/img/rooftop-snipers.jpg",
+      imageUrl: "https://imgs.crazygames.com/rooftop-snipers_1x1/20250108040441/rooftop-snipers_1x1-cover?format=auto&quality=100&metadata=none&width=1200",
       url: "openGame('https://nugget.evenpixels.com/rooftop-snipers/')",
     },
     {
@@ -268,12 +268,12 @@ const games = {
     },
     {
       name: "Soccer Random",
-      imageUrl: "assets/img/gjggg.jpeg",
+      imageUrl: "https://play-lh.googleusercontent.com/G1PIlb6HWKSaDre0XpUcmKGps9T4iamsSlwrogB3EJzYv4bz0M2am4D17MtGzndaOOU",
       url: "openGame('https://slope-game.github.io/new3723/soccer-random/')",
     },
     {
       name: "Volleyball Random",
-      imageUrl: "assets/img/2222.jpg",
+      imageUrl: "https://play-lh.googleusercontent.com/VeKAevaOjPlcyCtOpFY1h6SjwEjnu4ryG3xQ_qw1Muuhrg8pqwhl1aPjWovMkjc0Rc4",
       url: "openGame('https://bolaa1.github.io/file/')",
     },
     {
@@ -283,7 +283,7 @@ const games = {
     },
     {
       name: "Drift Boss",
-      imageUrl: "assets/img/dg4tfc.jpeg",
+      imageUrl: "https://avatars.githubusercontent.com/u/178060583?v=4",
       url: "openGame('https://driftboss.io/drift-boss.embed')",
     },
     {
@@ -293,7 +293,7 @@ const games = {
     },
     {
       name: "Shell Shockers",
-      imageUrl: "assets/img/rgrgrggr.jpeg",
+      imageUrl: "https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51615/icon/shell-shockers.png",
       url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://freegames.io/splash/shell-shockers')",
     },
     {
@@ -308,7 +308,7 @@ const games = {
     },
     {
       name: "Football Bros",
-      imageUrl: "assets/img/rgggg.jpeg",
+      imageUrl: "https://kotaku.com/igdb/image/upload/t_cover_big/co951q.jpg",
       url: "openGame('https://footballbrosgame.org/football-bros.embed')",
     },
     {
@@ -333,17 +333,17 @@ const games = {
     },
     {
       name: "Level Devil",
-      imageUrl: "assets/img/vvvvv.jpeg",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/0c3d1446c6992c2b88a9498de054688b/level-devil.png",
       url: "openGame('https://bitlifeonline.github.io/level-devil/')",
     },
     {
       name: "Level Devil 2",
-      imageUrl: "assets/img/vvvvv.jpeg",
+      imageUrl: "https://level-devil.io/data/image/game/level-devil-2.jpg",
       url: "openGame('https://leveldevil2.io/devil-level-2.embed')",
     },
     {
       name: "Gold Digger FRVR",
-      imageUrl: "assets/img/gold-digger-frvr.jpg",
+      imageUrl: "https://imgs.crazygames.com/gold-digger-frvr_1x1/20250519082512/gold-digger-frvr_1x1-cover?format=auto&quality=100&metadata=none&width=1200",
       url: "openGame('https://golddigger.frvr.com/')",
     },
     {
@@ -353,32 +353,32 @@ const games = {
     },
     {
       name: "SandTris",
-      imageUrl: "assets/img/sand.jpeg",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=1200,height=1200,fit=cover,f=png/ecd6242d6645b16e38220e88d5146301/sandtris.png",
       url: "openGame('https://sandtris.com/')",
     },
     {
       name: "SandSpiel",
-      imageUrl: "assets/img/sand%20.jpeg",
+      imageUrl: "https://pbs.twimg.com/profile_images/1073861926097117184/FB3bBgcN_400x400.jpg",
       url: "openGame('https://sandspiel.club/')",
     },
     {
       name: "Gun Mayhem 3",
-      imageUrl: "assets/img/gun.jpeg",
+      imageUrl: "https://kbhgames.com/wp-content/uploads/2014/12/Gun-Mayhem-3.jpg",
       url: "openGame('https://htmlxm.github.io/h7/gun-mayhem-3')",
     },
     {
       name: "Repuls",
-      imageUrl: "assets/img/re.jpeg",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/56f0657bcef7138a7b273eadce130c1f/repuls-io.jfif",
       url: "openGame('https://repuls.io/')",
     },
     {
       name: "Poker (fake money)",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://p7.hiclipart.com/preview/584/319/780/poker-run-playing-card-five-card-draw-online-casino-poker-clipart.jpg",
       url: "openGame('https://www.247freepoker.com/game/frame.html?v=1739976968831')",
     },
     {
       name: "Infinite Craft",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://play-lh.googleusercontent.com/YJFHGSmrMGuUqyWZ0oZDgDtDErIU2jQY3yT_PG9IRL6s5dBLmKXrXQShM3n8HFoPhkM=w240-h480-rw",
       url: "openGame('https://infinitecraftrecipes.io/infinite-craft.embed')",
     },
     {
@@ -388,17 +388,17 @@ const games = {
     },
     {
       name: "Happy Wheels",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://happy-wheels.co/data/image/options/favicon.png",
       url: "openGame('https://happywheels2.io/happy-wheels.embed')",
     },
     {
       name: "Jetpack Joyride",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://imgs.crazygames.com/jetpack-joyride-pcp_1x1/20250121090354/jetpack-joyride-pcp_1x1-cover?format=auto&quality=100&metadata=none&width=1200",
       url: "openGame('https://nugget.evenpixels.com/jetpack-joyride/')",
     },
     {
       name: "Tanuki Sunset",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://www.nintendo.com/eu/media/images/11_square_images/games_18/nintendo_switch_download_software/1x1_NSwitchDS_TanukiSunset_image500w.jpg",
       url: "openGame('https://ovo-unblocked-game.github.io/tanukisunset/')",
     },
     {
@@ -408,22 +408,22 @@ const games = {
     },
     {
       name: "Defly Io",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://tse3.mm.bing.net/th/id/OIP.FqjAwd4refQ7XdcNcnDa0QAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
       url: "openGame('https://defly.io/')",
     },
     {
       name: "Zombie Derby Pixel Survival",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://i1.sndcdn.com/artworks-Onved2eG8IiECM56-ZrGH3w-t500x500.jpg",
       url: "openGame('https://htmlxm.github.io/h3/zombie-derby-pixel-survival')",
     },
     {
       name: "NZ:P",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://img.itch.zone/aW1nLzE4NzE5OTQ2LnBuZw==/508x254%23mb/VuF1DF.png",
       url: "openGame('https://nzp.gay/')",
     },
     {
       name: "FNAF",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://assetsio.gnwcdn.com/five-nights-at-freddys-games-order.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
       url: "openGame('https://cap-fnaf.vercel.app/')",
     },
     {
@@ -453,12 +453,12 @@ const games = {
     },
     {
       name: "Santy is Home",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://horrorgames.io/data/image/game/santy-is-home-horror1.png",
       url: "openGame('https://nugget.evenpixels.com/santy-is-home/')",
     },
     {
       name: "OfflineParadise",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://gameonline.co.id/thumbs/offline-paradise-gea.jpeg",
       url: "openGame('https://nugget.evenpixels.com/OfflineParadise/')",
     },
     {
@@ -493,42 +493,42 @@ const games = {
     },
     {
       name: "Dodge",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://avocado.evenpixels.com/assets/img/Screenshot%202025-03-01%2020.11.32.png",
       url: "openGame('https://nugget.evenpixels.com/dodge/')",
     },
     {
       name: "Idle Breakout",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/59a42104cf89164d41ed231574452322/idle-breakout.png",
       url: "openGame('https://nugget.evenpixels.com/idle-breakout/')",
     },
     {
       name: "World's Hardest Game",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://img.tapimg.net/market/images/18684e9917c70814359394446255d21f.png?imageView2/0/h/270/format/jpg/interlace/1/ignore-error/1&t=1",
       url: "openGame('https://nugget.evenpixels.com/worlds-hardest-game/')",
     },
     {
       name: "World's Hardest Game 2",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://images.igdb.com/igdb/image/upload/t_1080p_2x/co5qm2.webp",
       url: "openGame('https://nugget.evenpixels.com/worlds-hardest-game-2/')",
     },
     {
       name: "Stealing the Diamond",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://m.media-amazon.com/images/M/MV5BMTMwZDVmYWQtODgxYS00YWI4LThmNzgtZmY2OWI2MTU2N2JjXkEyXkFqcGc@._V1_.jpg",
       url: "openGame('https://nugget.evenpixels.com/stealingthediamond/')",
     },
     {
       name: "Vex 5",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://nu.vgmtreasurechest.com/soundtracks/vex-5-online-gamerip-2020/vex-5-1407904700.png",
       url: "openGame('https://nugget.evenpixels.com/vex5/')",
     },
     {
       name: "Vex 6",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://lambda.vgmtreasurechest.com/soundtracks/vex-6-online-gamerip-2021/cover.jpg",
       url: "openGame('https://nugget.evenpixels.com/vex6/')",
     },
     {
       name: "Vex 7",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://img.gamedistribution.com/0c454c9562d249d28ba3a2b50564042c-512x512.jpg",
       url: "openGame('https://nugget.evenpixels.com/vex7/')",
     },
     {
@@ -543,42 +543,38 @@ const games = {
     },
     {
       name: "Fair Squares",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://img.itch.zone/aW1nLzEwNjUwMzYwLnBuZw==/original/y3PJRe.png",
       url: "openGame('https://nugget.evenpixels.com/fairsquares/')",
     },
     {
       name: "Goober Dash",
-      imageUrl: "assets/img/unnamed%20(2).jpg",
+      imageUrl: "https://play-lh.googleusercontent.com/AXkNBW19n-cBxRbGCzqngFc3mQTYULq1yVpjD0AfUBK6vNxSrEWvIlrkuc6jDJODBg",
       url: "openGame('https://gooberdash.winterpixel.io/')",
     },
-    {
-      name: "Dante",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
-      url: "openGame('https://nugget.evenpixels.com/dante/')",
-    },
+    
     {
       name: "Tunnel Rush",
-      imageUrl: "assets/img/Screenshot%202025-03-07%2012.48.56%20PM.png",
+      imageUrl: "https://images.hellokids.com/_uploads/_tiny_galerie/20180415/vign-tunnel-rush-hk-w8v_u89.jpg",
       url: "openGame('https://nugget.evenpixels.com/tunnel-rush/')",
     },
     {
       name: "Missiles",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://play-lh.googleusercontent.com/0IWOc7ZSzE-0_QiUfIrAHglEBshzgioBU7yJb4Qv3eO51tuejy9rBnaV004cLmmRcg",
       url: "openGame('https://nugget.evenpixels.com/missiles/')",
     },
     {
       name: "Pigeon Ascent",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://img.itch.zone/aW1nLzMyOTc1NDQucG5n/original/Blmfe1.png",
       url: "openGame('https://nugget.evenpixels.com/pigeon-ascent/')",
     },
     {
       name: "Spelunky",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://image.api.playstation.com/vulcan/img/rnd/202109/2907/zMDbJHMRWEA3dfC3XRqaB7n8.png?w=440",
       url: "openGame('https://nugget.evenpixels.com/spelunky/')",
     },
     {
       name: "Rodeo Stampede",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://pbs.twimg.com/profile_images/743227150979850240/DhDnCE8G_400x400.jpg",
       url: "openGame('https://freetoplayz.github.io/rodeo-stampede-savannah')",
     },
     {
@@ -588,7 +584,7 @@ const games = {
     },
     {
       name: "Stimulation Clicker",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://slopeio.org/cache/data/image/game/stimulation-clicker-m300x300.jpg",
       url: "openGame('https://nealfun.app/game/stimulation-clicker/')",
     },
     {
@@ -598,7 +594,7 @@ const games = {
     },
     {
       name: "SlowRoads",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://images.rocketgames.io/uploads/games/s/slow-roads-io/slow-roads-io.adda0e.jpg",
       url: "openGame('https://slowroads.io')",
     },
     {
@@ -608,22 +604,22 @@ const games = {
     },
     {
       name: "Zombs Royal",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://kevin.games/assets/images/games/zombs-royale.jpg",
       url: "openGame('https://zombsroyale.io/')",
     },
     {
       name: "Sword Battle",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/850281b427f3bcd6dddf5fbb3f5216e0/stickman-fight-ragdoll.png",
       url: "openGame('https://swordbattle.io/')",
     },
     {
       name: "SandBoxels",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://avatars.fastly.steamstatic.com/96d166fa16841a0904ef6576b02acb15961d6bd4_full.jpg",
       url: "openGame('https://sandboxels.r74n.com/')",
     },
     {
       name: "HideDotSeek",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://hidedotseek.com/img/logo.png",
       url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://hidedotseek.com/')",
     },
     {
@@ -633,42 +629,42 @@ const games = {
     },
     {
       name: "gladihoppers",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://play-lh.googleusercontent.com/HUuFbIPERNbpW2Q72WIqiJ8bKDzIgT_C4PnYvMBuH0wC3B_KvpKmumm1FXhZj3jmRHw",
       url: "openGame('https://www.yoosfuhl.com/game/gladihoppers/index.html')",
     },
     {
       name: "Human or Not",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://cdn-1.webcatalog.io/catalog/human-or-not/human-or-not-icon-filled-256.png?v=1714780572240",
       url: "openGame('https://www.humanornot.ai/')",
     },
     {
       name: "Pokemon",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://yt3.googleusercontent.com/2sQaUXQoYAuMizN33DJfqB-kB8VTdlufmYIOHSf-qLofax7AMnwKEzfd0nQ_nD6mTqY0KCgAXg=s900-c-k-c0x00ffffff-no-rj",
       url: "openGame('https://kbhgames.com/tag/pokemon')",
     },
     {
       name: "lolshot io",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://igre.games/wp-content/uploads/thumbs/custom/L/LolShot-io.jpg",
       url: "openGame('https://lolshot.io')",
     },
     {
       name: "Recoil",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/475c9015dfe59f39fe71b4d7522a6d6b/recoil.png",
       url: "openGame('https://play.fancade.com/5E9F40DA7F9C9FA8')",
     },
     {
       name: "GeoFS",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://www.geo-fs.com/images/squareposter.jpg",
       url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://www.geo-fs.com/geofs.php')",
     },
     {
       name: "Speed Stars",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://play-lh.googleusercontent.com/AIdar8HSSXg0NQ6BUR1mVt-uOudupELbjPkU_cgwo_7fP0tKT0R49dfFltYj-43u6A",
       url: "openGame('https://1games.io/embed/speed-stars')",
     },
     {
       name: "Thats Not My Neighbor",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://www2.minijuegosgratis.com/v3/games/thumbnails/250173_7_sq.jpg",
       url: "openGame('https://thatsnotmyneighbor.online/v11/')",
     },
     {
@@ -678,7 +674,7 @@ const games = {
     },
     {
       name: "FnF",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://fnf-games.io/data/image/game/fnf/fnf.webp",
       url: "openGame('https://fnfmod.online/friday-night-funkin/')",
     }
   ]
