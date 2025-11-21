@@ -2,12 +2,12 @@ const apps = {
     "Web Apps": [
       {
         name: "Virlan",
-        imageUrl: "assets/img/virlan.jpeg",
+        imageUrl: "https://www.virlan.co/wp-content/uploads/2023/09/virlan-logo-120x120.webp",
         url: "openGame('https://www.Virlan.co/unblocked-games')"
       },
       {
         name: "Hoodamath",
-        imageUrl: "assets/img/hooda-math.jpg",
+        imageUrl: "https://m.media-amazon.com/images/I/81QcSdG1STL.png",
         url: "openGame('https://www.hoodamath.com/games/unblocked.html')"
       },
       {
@@ -22,27 +22,27 @@ const apps = {
       },
       {
         name: "Totally Science",
-        imageUrl: "assets/img/",
+        imageUrl: "https://media.licdn.com/dms/image/v2/D4E0BAQH7Do9I-pgZBw/company-logo_200_200/company-logo_200_200/0/1683982998854?e=2147483647&v=beta&t=YSXBSZTrDEoQmceUiC0YTJ0GH2cZibgK-NVusbhB2Z8",
         url: "openGame('https://totallyscience.co/')"
       },
       {
         name: "Haley School",
-        imageUrl: "assets/img/",
+        imageUrl: "https://haleyschool.github.io/rs/imgs/Haley-logo1.jpg",
         url: "openGame('https://www.haleyschool.com/')"
       },
       {
         name: "GeometryDashUnblocked",
-        imageUrl: "assets/img/avo.png",
+        imageUrl: "https://unblockedrush.com/wp-content/uploads/2025/09/Geometry-Dash-Unblocked.webp",
         url: "openGame('https://geometrydashwave.com/')"
       },
       {
         name: "Poki",
-        imageUrl: "assets/img/poki.png",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UOfhJT5UOAzWznFy3EuIOh8dbEcRCeWfcQ&s",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://poki.com')"
       },
       {
         name: "GBA Emulator",
-        imageUrl: "assets/img/gba.jpeg",
+        imageUrl: "https://tse1.mm.bing.net/th/id/OIP.ChdmabNWHLGqvqkPgAcHpgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
         url: "openGame('https://bobzgames.github.io/GBA')"
       },
       {
@@ -52,73 +52,73 @@ const apps = {
       },
       {
         name: "KBH Games",
-        imageUrl: "assets/img/kbh-games.jpeg",
+        imageUrl: "https://tse3.mm.bing.net/th/id/OIP.YbIQEwpi7pw_Oew9mAEY0wAAAA?w=150&h=150&rs=1&pid=ImgDetMain&o=7&rm=3",
         url: "openGame('https://kbhgames.com/')"
       },
       {
         name: "MonkeyGG2",
-        imageUrl: "assets/img/monkey-gg2.jpeg",
+        imageUrl: "https://ziplinq.com/wp-content/uploads/2024/07/monkeygg2.webp",
         url: "openGame('https://monkeygg2.github.io/')"
       }
     ],
     "Social & Media": [
       {
         name: "Deep AI",
-        imageUrl: "assets/img/avo.png",
+        imageUrl: "https://s3-eu-west-1.amazonaws.com/tpd/logos/65b62b26768fed948677415e/0x0.png",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://deepai.org')",
         fixed: true
       },
       {
         name: "Snapchat",
-        imageUrl: "assets/img/snapchat.png",
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3UaY5dEZrByEL9pjivJCIe66KEex0FtfEyQ&s",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://www.snapchat.com/')"
       },
       {
         name: "TikTok",
-        imageUrl: "assets/img/tiktok.png",
+        imageUrl: "https://sf-static.tiktokcdn.com/obj/eden-sg/uhtyvueh7nulogpoguhm/tiktok-icon2.png",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://www.tiktok.com/')",
         fixed: true
       },
       {
         name: "google",
-        imageUrl: "assets/img/google.png",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://google.com/')"
       },
       {
         name: "Github(Devs)",
-        imageUrl: "assets/img/github.png",
+        imageUrl: "https://avatars.githubusercontent.com/u/13521919?s=280&v=4",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://github.com/')"
       },
       {
         name: "Instagram",
-        imageUrl: "assets/img/instagram.png",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://www.instagram.com/')"
       },
       {
         name: "Netflix",
-        imageUrl: "assets/img/netflix.png",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://www.netflix.com/')"
       },
       {
         name: "Hulu",
-        imageUrl: "assets/img/hulu.jpeg",
+        imageUrl: "https://yt3.googleusercontent.com/k6DNYJVED9j4fAsYgDzrHFGJVjpPG7sUgKmTgGFTdLSev4ZNsb8Ubu35y0OcCbSQqi70mbjrrA=s900-c-k-c0x00ffffff-no-rj",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://www.hulu.com/')"
       },
       {
         name: "Discord",
-        imageUrl: "assets/img/discord.png",
+        imageUrl: "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDaK1XdUso6cUMpI9hAdPUU_FNs11cY1X284vsHrnWtRw7oqRpN1m9YAg21d_aNKnIo-&format=source",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://discord.com/')"
       }
     ],
     "Tools": [
       {
         name: "Chess.com",
-        imageUrl: "assets/img/chess.webp",
+        imageUrl: "https://play-lh.googleusercontent.com/a7R5nyeaX8lIEWdBOxjlvbyq9LcFwh3XMvNtBPEKR3LPGgdvgGrec4sJwn8tUaaSkw=s256-rw",
         url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://chess.com/')"
       },
       {
         name: "Chat",
-        imageUrl: "assets/img/chat.png",
+        imageUrl: "https://cdn-icons-png.freepik.com/512/6995/6995660.png",
         url: "openGame('https://deadsimplechat.com/xdUZUMqLq')"
       }
     ]
