@@ -5,8 +5,8 @@ const games = {
   "game request": [
     {
       name: "Game Requests",
-      imageUrl: "assets/img/game-request.png",
-      url: "openGame('https://docs.google.com/forms/d/e/1FAIpQLScjeu0lsyouw8ixTZ2WE9Vgr0AO2mVoDjA6kg9F6LpEgkb5GQ/viewform')",
+      imageUrl: "https://inside.lanecc.edu/sites/default/files/atc/library/google-forms-logo-1669050260.png",
+      url: "openGame('https://forms.gle/J9N1mpLZiwrHWxzz5')",
       fixed: true
     }
   ],
@@ -18,12 +18,12 @@ const games = {
     },
     {
       name: "Blockpost",
-      imageUrl: "assets/img/Screenshot%202025-01-12%2022.34.04.png",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7j7Si0EBfiflOImymoYpwrEMh3IF-9yUGwA&s",
       url: "openGame('https://playblockpost.pages.dev/assets/blockpost-main/')",
     },
     {
       name: "Brawl Stars",
-      imageUrl: "assets/img/erggg.png",
+      imageUrl: "https://i.scdn.co/image/ab6761610000e5ebf7b952107c126c561c52171e",
       url: "openGame('https://www.funpassgg.com/game/140/brawl-stars.html')",
     },
     {
@@ -33,7 +33,7 @@ const games = {
     },
     {
       name: "Collage Retro Bowl",
-      imageUrl: "assets/img/Screenshot%202025-01-12%2022.48.49.png",
+      imageUrl: "https://play-lh.googleusercontent.com/-BT8C-1UPYWouyjVvWYgaar_-xV4IQvX4Bvib3koGEGiy6UsHlt0RgYpUrdTDfC2y0ct",
       url: "openGame('https://ethonion10.neocities.org/')",
     },
     {
@@ -63,7 +63,7 @@ const games = {
     },
     {
       name: "BitLife",
-      imageUrl: "assets/img/bitlife.png",
+      imageUrl: "https://play-lh.googleusercontent.com/fUM-UyywXxjC8soxAZdIlxJrlRRXmql8wkE426SHzft4lJycSKVd2jCYQQX1BEG9Xw",
       url: "openGame('https://nugget.evenpixels.com/bitlife/')",
     },
     {
@@ -78,12 +78,12 @@ const games = {
     },
     {
       name: "Old 1v1.LOL",
-      imageUrl: "assets/img/Screenshot%202025-01-13%2010.47.20.png",
+      imageUrl: "https://games.lol/wp-content/uploads/2021/01/1v1-lol-free-full-version-2.jpg",
       url: "openGame('https://1v1lol-unblocked-free.github.io/')",
     },
     {
       name: "1v1.LOL",
-      imageUrl: "assets/img/1v1-lol.jpeg",
+      imageUrl: "https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51614/icon/1v1-lol.png",
       url: "openGame('https://1v1.lol/')",
     },
     {
@@ -108,7 +108,7 @@ const games = {
     },
     {
       name: "Block Blast",
-      imageUrl: "assets/img/download%20(3).jpeg",
+      imageUrl: "https://imgs.crazygames.com/block-puzzle-master_1x1/20250924025352/block-puzzle-master_1x1-cover?format=auto&quality=100&metadata=none&width=1200",
       url: "openGame('https://www.hoodamath.com/mobile/games/block-blast/game.html?nocheckorient=1')",
     },
     {
@@ -143,7 +143,7 @@ const games = {
     },
     {
       name: "Burrito Bison",
-      imageUrl: "assets/img/burrito-bison.png",
+      imageUrl: "https://m.media-amazon.com/images/I/71uaF+NaGmL.png",
       url: "openGame('https://burritobison.gitlab.io/file/')",
     },
     {
@@ -163,7 +163,7 @@ const games = {
     },
     {
       name: "Chill Guy Clicker",
-      imageUrl: "assets/img/chill-guy-clicker-game-f220x175.jpg",
+      imageUrl: "https://avatars.githubusercontent.com/u/198609417?s=280&v=4",
       url: "openGame('https://chillguyclicker.io/chill-guy-clicker.embed')",
     },
     {
@@ -183,7 +183,7 @@ const games = {
     },
     {
       name: "Cookie Clicker",
-      imageUrl: "assets/img/h%20bhb%20.jpeg",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iqHgjXkjQZWLtYaYP6n4eZ7cHPYE56_i3g&s",
       url: "openGame('https://webglmath.github.io/cookie-clicker/')",
     },
     {
@@ -198,7 +198,7 @@ const games = {
     },
     {
       name: "Cat Gunner",
-      imageUrl: "assets/img/cat-gunner-super-zombie-shoot.jpg",
+      imageUrl: "https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=314,height=314,fit=cover,f=auto/6dfde4a0cbc85a07e6857c592e22e0f7/cat-gunner-super-zombie-shoot.png",
       url: "openGame('https://classroom6x.gitlab.io/cat-gunner-super-zombie-shoot/')",
     },
     {
@@ -213,7 +213,7 @@ const games = {
     },
     {
       name: "Capybara Clicker",
-      imageUrl: "assets/img/fgdshythx.jpeg",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cS_hplVHPxZYjU3BGwCIVizGCDG6YzTo4IrKleiRsilBjbIFhvD_rlxHzWzjTTIAoJwmdw&s=10",
       url: "openGame('https://capybara-game.com/')",
     },
     {
@@ -263,7 +263,7 @@ const games = {
     },
     {
       name: "Basket Random",
-      imageUrl: "assets/img/basketrandom.webp",
+      imageUrl: "https://imgs.crazygames.com/basket-random_1x1/20240617090207/basket-random_1x1-cover?format=auto&quality=100&metadata=none&width=1200",
       url: "openGame('https://static.playunblocked.com/2020/05/basket-random/')",
     },
     {
@@ -278,7 +278,7 @@ const games = {
     },
     {
       name: "Boxing Random",
-      imageUrl: "assets/img/gggg.jpeg",
+      imageUrl: "https://play-lh.googleusercontent.com/ZuMoNX6xiIBRwdtSL-FN0xCdXyahk8SRaPZ5_4HzkdQEp2Tm_GAsha9OcsRoSDgSw8Y",
       url: "openGame('https://html5.gamedistribution.com/e8c02771085e4c8b9de3deda5e087e0e/')",
     },
     {
@@ -288,7 +288,7 @@ const games = {
     },
     {
       name: "Bloxd",
-      imageUrl: "assets/img/Screenshot%202025-01-12%2017.42.54.png",
+      imageUrl: "https://play-lh.googleusercontent.com/sv8XG2T7qWI6yuxJSYgtOq1coV5pTXs474IS_W6GqJ5Rn0nF5w6NV7-kvlMThKb5nXk8=w240-h480-rw",
       url: "openGame('https://bloxd.io/')",
     },
     {
@@ -298,12 +298,12 @@ const games = {
     },
     {
       name: "Bit Planes",
-      imageUrl: "assets/img/efe.jpeg",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ntCrFCV8T7jNVkat7-iYNEyHxEOm_dpKkQ&s",
       url: "openGame('https://medv.io/bit-planes/')",
     },
     {
       name: "10 Minutes Till Dawn",
-      imageUrl: "assets/img/10-mins.png",
+      imageUrl: "https://img.itch.zone/aW1nLzg3MTU5NzMucG5n/original/0LqGxb.png",
       url: "openGame('https://nugget.evenpixels.com/10-minutes-till-dawn/')",
     },
     {
@@ -313,22 +313,22 @@ const games = {
     },
     {
       name: "Basket Bros",
-      imageUrl: "assets/img/basketbros.jpeg",
+      imageUrl: "https://kevin.games/assets/images/new/basketbros-io.jpg",
       url: "openGame('https://basketbros.io/')",
     },
     {
       name: "Baseball Bros",
-      imageUrl: "assets/img/baseball-bros.jpg",
+      imageUrl: "https://i1.sndcdn.com/artworks-VBHhC0ih7qZz6Gnd-4k9qQA-t500x500.png",
       url: "openGame('https://iogames.onl/baseball-bros/baseball-bros.embed')",
     },
     {
       name: "Basketball Legends",
-      imageUrl: "assets/img/basketball-legends.webp",
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU7cyO8wFOSZEWNP1P0_s6DNXle_pkW1E4iEpB_omv4HIEs_nvPrTwjlYNP4pcU0lp5o8&usqp=CAU",
       url: "openGame('https://www.basketballlegends.fun/gamedata/basketball-legends')",
     },
     {
       name: "Buckshot Roulette",
-      imageUrl: "assets/img/grgrgrgr.jpeg",
+      imageUrl: "https://bleedingcool.com/wp-content/uploads/2024/10/Buckshot-Roulette-Main-Art-900x900.jpg",
       url: "openGame('https://r2.gmsgroup.app/buckshot/index.html')",
     },
     {
@@ -348,7 +348,7 @@ const games = {
     },
     {
       name: "Core-Ball",
-      imageUrl: "assets/img/dddd.png",
+      imageUrl: "https://blockblastonline.com/upload/imgs/coreball.png",
       url: "openGame('https://www.monkey-type.org/games/coreballiframe')",
     },
     {
@@ -383,7 +383,7 @@ const games = {
     },
     {
       name: "Cluster Rush",
-      imageUrl: "assets/img/2024-07-05-135225600.png",
+      imageUrl: "https://i0.wp.com/diva-magazine.com/wp-content/uploads/2025/10/cluster-rush.png?fit=631%2C631&ssl=1",
       url: "openGame('https://clusterrush.io//game/cluster-rush/')",
     },
     {
@@ -403,7 +403,7 @@ const games = {
     },
     {
       name: "Blumgi Rocket",
-      imageUrl: "assets/img/blumgi-rocket.jpeg",
+      imageUrl: "https://blumgirocket.org/wp-content/uploads/thumbs/custom/B/blumgi-rocket-unblocked.webp",
       url: "openGame('https://htmlxm.github.io/h2/blumgi-rocket')",
     },
     {
@@ -428,27 +428,27 @@ const games = {
     },
     {
       name: "Dadish 1",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/3/35/Dadishlogo.jpg",
       url: "openGame('https://cap-game-source-2.vercel.app/games/dadish/')",
     },
     {
       name: "Dadish 2",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://play-lh.googleusercontent.com/mz-1_M5yCtSjxulU0taiZocyH6dIiUaIjkm8qPzoTk4fInK-2BV9_ctdWly1EtKUcho",
       url: "openGame('https://cap-game-source-2.vercel.app/games/dadish-2/')",
     },
     {
       name: "Dadish 3",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://image.api.playstation.com/vulcan/ap/rnd/202204/1304/cN63dJdfaENynbbEkxyMyVnG.png",
       url: "openGame('https://cap-game-source-2.vercel.app/games/dadish-3/')",
     },
     {
       name: "Dadish 3D",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://play-lh.googleusercontent.com/g4v6gu0fbuvEtgtidn8GEw_51ki1AAEr-LN45il59XfNGNH3H-ucT9itT3jivofEWg",
       url: "openGame('https://class811.github.io/g50/dadish-3d')",
     },
     {
       name: "Crazy Cattle 3D",
-      imageUrl: "assets/img/crazy-cattle-3d.webp",
+      imageUrl: "https://repoonline.io/cache/data/image/game/crazy-cattle-3d/crazy-cattle-3d-m250x250.webp",
       url: "openGame('https://crazycattle3d.io/crazy-cattle-3d.embed')",
     },
     {
@@ -463,32 +463,32 @@ const games = {
     },
     {
       name: "Backrooms",
-      imageUrl: "assets/img/backrooms.jpg",
+      imageUrl: "https://media.wired.com/photos/627b0c1fb6048c47d506c6c0/4:3/w_1384,h_1038,c_limit/Backrooms-Games.jpg",
       url: "openGame('https://nugget.evenpixels.com/backrooms/')",
     },
     {
       name: "Backrooms 2D",
-      imageUrl: "assets/img/backrooms-2d.png",
+      imageUrl: "https://play-lh.googleusercontent.com/qsajZ3WxItUCjA08_AaZyxbmRpPT87uHiYOyDU-e5444ALBZe23nPZYi7pTU5nFCOPk=w240-h480-rw",
       url: "openGame('https://nugget.evenpixels.com/backrooms-2d/')",
     },
     {
       name: "Bacon May Die",
-      imageUrl: "assets/img/baconmaydie.png",
+      imageUrl: "https://play-lh.googleusercontent.com/W_dghckKR-MD8Hx5YvCpdx3bYNeqrBdZqnMI02JnP5rVH8VqGaQUzdiMXd2wdJGLeP0",
       url: "openGame('https://nugget.evenpixels.com/bacon-may-die/')",
     },
     {
       name: "Awesome Tanks 2",
-      imageUrl: "assets/img/awesometanks.jpg",
+      imageUrl: "https://www.coolmathgames.com/sites/default/files/styles/mobile_game_image/public/AwesomeTanks2_OG-logo.jpg.webp?itok=aT-VV_gO",
       url: "openGame('https://nugget.evenpixels.com/awesometanks2/')",
     },
     {
       name: "Cubefield",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://kevin.games/assets/images/games/cubefield.jpg",
       url: "openGame('https://nugget.evenpixels.com/cubefield/')",
     },
     {
       name: "Bad Ice Cream 3",
-      imageUrl: "assets/img/badicecream-3.png",
+      imageUrl: "https://cdn.nitrome.com/images/uploads/1006-1388685375-bic3-update.png",
       url: "openGame('https://nugget.evenpixels.com/bad-ice-cream-3/')",
     },
     {
@@ -533,12 +533,12 @@ const games = {
     },
     {
       name: "Bloxorz",
-      imageUrl: "assets/img/bloxorz.jpeg",
+      imageUrl: "https://www.coolmathgames.com/sites/default/files/bloxorz-game-icon.png",
       url: "openGame('https://ubg89.github.io/Bloxorz/')",
     },
     {
       name: "CS:GO Clicker",
-      imageUrl: "assets/img/cs-go-clicker.jpeg",
+      imageUrl: "https://avatars.githubusercontent.com/u/39322951?s=280&v=4",
       url: "openGame('https://nugget.evenpixels.com/csgo-clicker/')",
     },
     {
@@ -583,7 +583,7 @@ const games = {
     },
     {
       name: "Bottle Flip 3D",
-      imageUrl: "assets/img/bottle-flip-3d.png",
+      imageUrl: "https://play-lh.googleusercontent.com/sMpJpTPMtTMr9tfusBtbWIz_h2UdX3iwx8Ea4w6vJ-0vyFILvpIMj_JvwVSeS6Xq0bg",
       url: "openGame('https://ubg44.github.io/BottleFlip3D/')",
     },
     {
@@ -593,7 +593,7 @@ const games = {
     },
     {
       name: "Bad Time Sim",
-      imageUrl: "assets/img/bad-time-simulator.jpg",
+      imageUrl: "https://badtimesimulator.io/upload/cache/upload/imgs/sans-fight-simulator-m240x240.jpg",
       url: "openGame('https://badtimesimulator.io/1.embed')",
     },
     {
@@ -603,7 +603,7 @@ const games = {
     },
     {
       name: "Copter io",
-      imageUrl: "assets/img/copter-io.jpeg",
+      imageUrl: "https://a.silvergames.com/j/b/copter-io.jpg",
       url: "openGame('https://copter.io')",
     },
     {
@@ -628,7 +628,7 @@ const games = {
     },
     {
       name: "Crossy Road",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/en/7/71/Crossy_Road_icon.jpeg",
       url: "openGame('https://crossy-road.gitlab.io/file/')",
     },
     {
@@ -673,7 +673,7 @@ const games = {
     },
     {
       name: "Case Clicker 2",
-      imageUrl: "assets/img/Screenshot%202025-03-01%2020.11.32.png",
+      imageUrl: "https://extrememath.app/images/csgocaseclicker2.png",
       url: "openGame('https://csgo.mtsl.dk/')",
     },
     {
