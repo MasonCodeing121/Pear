@@ -1,4 +1,4 @@
-<h1>**Warning ⚠**</h1>
+<center><h1>Warning ⚠</h1></center>
 
 
 
