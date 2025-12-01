@@ -676,6 +676,12 @@ const games = {
       name: "FnF",
       imageUrl: "https://fnf-games.io/data/image/game/fnf/fnf.webp",
       url: "openGame('https://fnfmod.online/friday-night-funkin/')",
+    },
+    {
+      name: "Google Fued",
+      imageUrl: "https://static.wikia.nocookie.net/jacksepticeye/images/3/3a/Google_Feud_logo.png/revision/latest/thumbnail/width/360/height/360?cb=20190227023810",
+      url: "openGame('https://googlefeud.com/')"
+      
     }
   ]
 }
