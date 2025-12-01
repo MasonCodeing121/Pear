@@ -679,7 +679,7 @@ const games = {
     },
     {
       name: "Google Fued",
-      imageUrl: "https://static.wikia.nocookie.net/jacksepticeye/images/3/3a/Google_Feud_logo.png/revision/latest/thumbnail/width/360/height/360?cb=20190227023810",
+      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Feud_Logo_%282016-present%29.png/1200px-Google_Feud_Logo_%282016-present%29.png",
       url: "openGame('https://googlefeud.com/')"
       
     }
