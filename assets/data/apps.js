@@ -120,6 +120,11 @@ const apps = {
         name: "Chat",
         imageUrl: "https://cdn-icons-png.freepik.com/512/6995/6995660.png",
         url: "openGame('https://deadsimplechat.com/xdUZUMqLq')"
-      }
+      },
+        {
+            name:"Embed Anything",
+            imageUrl: "https://play-lh.googleusercontent.com/EnxJKkoXzxrmA0RA0gUie0K4gvbRLrQhpflyMzwSMvCfk2FA6o9sBLzfWtG5qLzIBIc",
+            url: "openGame('https://embeddr.rhw.one/')"
+        }
     ]
   };
