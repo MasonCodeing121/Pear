@@ -679,7 +679,7 @@ const games = {
     },
     {
       name: "Google Fued",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Feud_Logo_%282016-present%29.png/1200px-Google_Feud_Logo_%282016-present%29.png",
+      imageUrl: "Too lazy to put photo",
       url: "openGame('https://googlefeud.com/')"
       
     }
