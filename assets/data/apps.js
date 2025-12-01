@@ -107,7 +107,7 @@ const apps = {
       {
         name: "Discord",
         imageUrl: "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxsG72wAo9EWJR4yQWyJJaDaK1XdUso6cUMpI9hAdPUU_FNs11cY1X284vsHrnWtRw7oqRpN1m9YAg21d_aNKnIo-&format=source",
-        url: "openGame('https://cap-any-embed.vercel.app/embed.html#https://discord.com/')"
+        url: "openGame('https://ptb.discord.com')"
       }
     ],
     "Tools": [
