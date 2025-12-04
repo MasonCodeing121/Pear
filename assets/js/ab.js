@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // The openGame function
 function openGame(url) {
-  var win = window.open();
+  var win = window.open("","_blank","Pear");
   var iframe = win.document.createElement('iframe');
   iframe.style.position = "absolute";
   iframe.style.top = "0";
