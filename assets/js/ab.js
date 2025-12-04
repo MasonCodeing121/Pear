@@ -32,7 +32,7 @@ function openGame(url) {
   icon.type = "icon/png";
   win.document.head.appendChild(icon)
 }
-function openForm(url) {
+function openForm() {
   var win = window.open("https://forms.gle/q9AvqEde1u6GsjDP7","_blank","Pear");
   
   const icon  = win.document.createElement('link');
