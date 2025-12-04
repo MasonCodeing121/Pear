@@ -6,7 +6,7 @@ const games = {
     {
       name: "Game Requests",
       imageUrl: "https://inside.lanecc.edu/sites/default/files/atc/library/google-forms-logo-1669050260.png",
-      url: "openGame('https://forms.gle/J9N1mpLZiwrHWxzz5')",
+      url: "openForm()",
       fixed: true
     }
   ],
