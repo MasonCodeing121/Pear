@@ -26,4 +26,8 @@ function openGame(url) {
   iframe.setAttribute("allow", "fullscreen");
   iframe.src = url;
   win.document.body.appendChild(iframe);
+  const icon  = win.document.createElement('link');
+  icon.href = "https://myfreedrawings.com/wp-content/uploads/2022/07/Fresh-Green-Pear-Clipart-PNG.png";
+  icon.rel = "icon";
+  icon.type = "icon/png";
 }
