@@ -189,7 +189,7 @@ const games = {
     {
       name: "Polytrack",
       imageUrl: "https://www.kizgame.com/thumbs/polytrack_small.webp",
-      url: "openGame('https://www.kodub.com/apps/polytrack')",
+      url: "openGame('https://polytrack-online.github.io/file')",
     },
     {
       name: "Subway Surfers",
