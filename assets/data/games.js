@@ -682,6 +682,12 @@ const games = {
       imageUrl: "Too lazy to put photo",
       url: "openGame('https://googlefeud.com/')"
       
+    },
+    {
+      name: "Clash of Vikings",
+      imageUrl: "https://cdn11.bigcommerce.com/s-u0v3cvo4an/images/stencil/1000w/products/21005/6486/big_icon__86539.1601633548.png",
+      url: "openGame('https://www.greenfoot.org/scenarios/27793?embed=true&quot')"
+  
     }
   ]
 }
