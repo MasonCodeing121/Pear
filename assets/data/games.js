@@ -689,5 +689,10 @@ const games = {
       url: "openGame('https://www.greenfoot.org/scenarios/27793?embed=true&quot')"
   
     }
+    {
+      name: "Solo Wheelie Life",
+      imageUrl: "none",
+      url: "openGame('https://scratch.mit.edu/projects/1252339703/embed')"
+    }
   ]
 }
