@@ -688,7 +688,7 @@ const games = {
       imageUrl: "https://cdn11.bigcommerce.com/s-u0v3cvo4an/images/stencil/1000w/products/21005/6486/big_icon__86539.1601633548.png",
       url: "openGame('https://www.greenfoot.org/scenarios/27793?embed=true&quot')"
   
-    }
+    },
     {
       name: "Solo Wheelie Life",
       imageUrl: "none",
