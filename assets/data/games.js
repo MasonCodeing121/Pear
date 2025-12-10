@@ -695,9 +695,10 @@ const games = {
       url: "openGame('https://scratch.mit.edu/projects/1252339703/embed')"
     },
     {
-      name: " Zombie Shooter",
-      imageUrl: "None",
-      url "openGame('https://scratch.mit.edu/projects/1001360203/embed')"
+      name: "Zombie Shooter",
+      imageUrl: "none",
+      url: "openGame('https://scratch.mit.edu/projects/1001360203/embed')"
     }
+    
   ]
 }
