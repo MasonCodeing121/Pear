@@ -696,7 +696,7 @@ const games = {
     },
     {
       name: "Zombie Shooter",
-      imageUrl: "./assets/img/ZombieShooter.png",
+      imageUrl: "./assets/img/Screenshot 2025-12-09 191514.png",
       url: "openGame('https://scratch.mit.edu/projects/1001360203/embed')"
     }
     
